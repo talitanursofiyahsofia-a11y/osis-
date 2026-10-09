@@ -1,0 +1,9 @@
+PORTOFOLIO OSIS SPENSAWA
+
+Cara melihat:
+1. Ekstrak folder/ZIP ini.
+2. Buka index.html di peramban.
+3. Pastikan index.html, style.css, app.js, dan folder img tetap berada dalam satu folder yang sama.
+
+Untuk mengunggah ke hosting statis, unggah seluruh isi folder spensawa_portofolio.
+Foto dokumentasi yang diberikan sudah disalin ke folder img dan dipakai pada galeri.
